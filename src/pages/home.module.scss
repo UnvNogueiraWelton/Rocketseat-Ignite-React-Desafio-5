@@ -1,1 +1,13 @@
-// TODO
+.container {
+  max-width: 720px;
+  margin-inline: auto;
+  margin-bottom: 4rem;
+
+  button {
+    margin-top: 4rem;
+    background: transparent;
+    border: none;
+    font-weight: 600;
+    color: var(--pink-500);
+  }
+}
